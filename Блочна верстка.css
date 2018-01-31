@@ -1,0 +1,107 @@
+body {
+     color: white;
+     font-family: Arial, sans-serif;
+     font-size: 14px;
+}
+
+#one {
+     position:absolute;
+     display: table;
+     background:#446380;
+     width: 100px;
+     height:100px;
+}
+ span {
+     font-size: 20px;
+     display: table-cell;
+     padding: 70px 3px 3px 75px;     
+}
+.small {
+     font-size: 20px;
+     display: table-cell;
+     padding: 40px 3px 3px 50px; 
+}
+ 
+#container {
+     position: relative;
+}
+#two {position:absolute;
+     background:#446380;
+     width: 100px;
+     height:100px;
+     margin-left: 105px;}
+#three {
+     position:absolute;
+     background:#446380;
+     width: 100px;
+     height:100px;
+     margin-top: 105px;}
+#four {
+     position:absolute;
+     background:#446380;
+     width: 100px;
+     height:100px;
+     margin: 105px 105px;}
+#five {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 0 120px 260px 210px;}
+#six {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 0 80px 260px 280px;}
+#seven {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 0 3px 260px 350px;}
+
+#eight {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 70px 120px 260px 210px;}
+#nine {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 70px 3px 260px 280px;}
+#ten {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 70px 3px 260px 350px;
+}
+#eleven {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 140px 120px 260px 210px;
+}
+#twelve {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 140px 3px 260px 280px;
+}
+#thirteen {
+     position:absolute;
+     background:#446380;
+     width: 65px;
+     height:65px;
+     margin: 140px 3px 260px 350px; 
+}
+
+
+ 
+
